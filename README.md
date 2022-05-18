@@ -27,15 +27,15 @@ I'm currently seeking a software engineering job to expand my knowledge and brin
 - ### 👕 [Project Atelier](https://github.com/SoymilkSky/ProjectAtelier)
   - Javascript | React | Node.js | Express.js | Styled Components 
   - Redesign of an eCommerce products page.
-  - I worked on the Ratings & Reviews section.
+  - Implemented a Ratings & Reviews section with sort, filter, search features. 
 
 - ### 📝 [Reviews API](https://github.com/SoymilkSky/ReviewsAPI)
   - Javascript | Node.js | Express.js | PostgreSQL | New Relic | K6 | Jest | Supertest
   - Backend redesign from a monolithic architecture to a dedicated micro-service oriented architecture.
-  - I worked on redesigning the Reviews API that would provide data to the reviews section of a product page.
+  - Worked on creating the Reviews portion of the micro-service API. 
 
 - ### 🐺 [WordWolf](https://github.com/RFP2202-Blue-Ocean-Avengers/WordWolf)
   - Javascript | React | Node.js | Express.js | Next.js | Socket.io | ChakraUI
   - Online adaptation of the popular board game Werewords by Bezier Games. 
   - Features the abiility to create multiple game lobbies that run concurrently.
-  - I worked on designing and implementing the backend framework to deliver unified game states to the front end.
+  - Designed and implemented the backend framework to deliver unified game states to the front end.
