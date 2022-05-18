@@ -29,7 +29,7 @@ I'm currently seeking a software engineering job to expand my knowledge and brin
   - Redesign of an eCommerce products page.
   - I worked on the Ratings & Reviews section.
 
-- [Threads](https://github.com/SoymilkSky/ReviewsAPI)
+- [Reviews API](https://github.com/SoymilkSky/ReviewsAPI)
   - Utilized: Javascript | Node.js | Express.js | PostgreSQL | New Relic | K6 | Jest | Supertest
   - Backend redesign from a monolithic architecture to a dedicated micro-service oriented architecture.
   - I worked on redesigning the Reviews API that would provide data to the reviews section of a product page.
