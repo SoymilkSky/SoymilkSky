@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About me
 I'm Danny, a full stack engineer who enjoys bringing ideas to life while creating a user friendly experience!
 
-I'm currently seeking a software engineering job to expand my knowledge and bring my skills to work on something impactful.
+I'm currently working at Square!
 
 ## How to reach me
 [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caleb-kim0510/)](https://www.linkedin.com/in/danny96wong/)
